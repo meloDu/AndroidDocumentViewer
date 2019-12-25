@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidDocumentViewer-master.iml" filepath="$PROJECT_DIR$/AndroidDocumentViewer-master.iml" />
+      <module fileurl="file://E:\AndroidProject\AndroidDocumentViewer-master\AndroidDocumentViewer-master\FileViewerDemo-opensource.iml" filepath="E:\AndroidProject\AndroidDocumentViewer-master\AndroidDocumentViewer-master\FileViewerDemo-opensource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_fileviewer/lib_fileviewer.iml" filepath="$PROJECT_DIR$/lib_fileviewer/lib_fileviewer.iml" />
+    </modules>
+  </component>
+</project>
